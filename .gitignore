@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Secrets
+.env
+*.session
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Logs
+add_members_log.csv
+daily_run.log

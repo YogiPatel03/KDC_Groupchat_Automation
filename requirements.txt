@@ -1,0 +1,7 @@
+telethon
+pandas
+openpyxl
+python-dotenv
+phonenumbers
+requests
+schedule
